@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|d:\\3ano\\qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silaba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\silaba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silaba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\silaba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silabas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\silabas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vogaistela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\vogaistela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vogaistela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\vogaistela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\vec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogosilllll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\jogosilllll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\vec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silabas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\silabas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogosilllll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\jogosilllll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogopalavra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\jogopalavra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogopalavra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\jogopalavra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogoalfabeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\jogoalfabeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogoalfabeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\jogoalfabeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabetotela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\alfabetotela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabetotela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\alfabetotela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\consoantestela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\consoantestela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\consoantestela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\consoantestela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\alfabeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\alfabeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\alfab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|alfabetizacao||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EF40E-78DE-49C9-99E0-B0D9540427AD}|alfabetizacao\\alfabetizacao.csproj|solutionrelative:alfabetizacao\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "silabas.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silabas.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\silabas.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silabas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:07:50.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "silaba.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silaba.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\silaba.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silaba.cs [Design]",
+              "RelativeToolTip": "alfabetizacao\\silaba.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:30:16.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vogaistela.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vogaistela.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\vogaistela.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vogaistela.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:26:40.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "silaba.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silaba.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\silaba.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silaba.cs",
+              "RelativeToolTip": "alfabetizacao\\silaba.cs",
+              "ViewState": "AQIAAEkDAAAAAAAAAAAowFwDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:58:36.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vogaistela.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vogaistela.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\vogaistela.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vogaistela.cs",
+              "RelativeToolTip": "alfabetizacao\\vogaistela.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:16:57.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vec.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vec.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\vec.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:07:14.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jogosilllll.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogosilllll.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\jogosilllll.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogosilllll.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:49:23.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vec.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vec.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\vec.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\vec.cs",
+              "RelativeToolTip": "alfabetizacao\\vec.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:10:56.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "silabas.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silabas.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\silabas.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\silabas.cs",
+              "RelativeToolTip": "alfabetizacao\\silabas.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:27:09.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "jogosilllll.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogosilllll.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\jogosilllll.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogosilllll.cs",
+              "RelativeToolTip": "alfabetizacao\\jogosilllll.cs",
+              "ViewState": "AQIAABACAAAAAAAAAAAkwCICAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:53:30.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "jogopalavra.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogopalavra.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\jogopalavra.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogopalavra.cs",
+              "RelativeToolTip": "alfabetizacao\\jogopalavra.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAswIcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:16:32.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "jogopalavra.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogopalavra.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\jogopalavra.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogopalavra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:47:39.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\Form1.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\Form1.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:51:06.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "inicio.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\inicio.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\inicio.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\inicio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:21:28.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "jogoalfabeto.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogoalfabeto.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\jogoalfabeto.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogoalfabeto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:41:04.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "jogoalfabeto.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogoalfabeto.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\jogoalfabeto.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\jogoalfabeto.cs",
+              "RelativeToolTip": "alfabetizacao\\jogoalfabeto.cs",
+              "ViewState": "AQIAALoBAAAAAAAAAAAkwMwBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:48:43.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "alfabetotela.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabetotela.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\alfabetotela.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabetotela.cs",
+              "RelativeToolTip": "alfabetizacao\\alfabetotela.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAkwNcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:53:19.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "alfabetotela.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabetotela.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\alfabetotela.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabetotela.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:57:19.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "consoantestela.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\consoantestela.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\consoantestela.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\consoantestela.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:20:35.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "inicio.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\inicio.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\inicio.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\inicio.cs",
+              "RelativeToolTip": "alfabetizacao\\inicio.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAowNMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:52:42.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "consoantestela.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\consoantestela.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\consoantestela.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\consoantestela.cs",
+              "RelativeToolTip": "alfabetizacao\\consoantestela.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA7wCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:17:40.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "alfabeto.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabeto.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\alfabeto.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabeto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:57:20.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "alfabeto.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabeto.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\alfabeto.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabeto.cs",
+              "RelativeToolTip": "alfabetizacao\\alfabeto.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:36:59.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "alfab.cs [Design]",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfab.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\alfab.cs",
+              "ToolTip": "C:\\Users\\Thais\\Desktop\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfab.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:29:21.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "alfabetizacao\\Properties\\Resources.resx",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\Properties\\Resources.resx",
+              "RelativeToolTip": "alfabetizacao\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-29T21:31:00.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\App.config",
+              "RelativeDocumentMoniker": "alfabetizacao\\App.config",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\App.config",
+              "RelativeToolTip": "alfabetizacao\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T22:39:59.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\Program.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\Program.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\Program.cs",
+              "RelativeToolTip": "alfabetizacao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:40:33.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "alfabetizacao",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabetizacao.csproj",
+              "RelativeDocumentMoniker": "alfabetizacao\\alfabetizacao.csproj",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\alfabetizacao.csproj",
+              "RelativeToolTip": "alfabetizacao\\alfabetizacao.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T19:46:17.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\Form1.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\Form1.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\Form1.cs",
+              "RelativeToolTip": "alfabetizacao\\Form1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA/wDoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:52:35.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "alfabetizacao\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\3ano\\Qts\\alfabetizacao-atuali\\alfabetizacao-atuali\\alfabetizacao\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "alfabetizacao\\Properties\\Resources.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:31:34.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
